@@ -16,7 +16,7 @@ However, the result is not satisfying.
 
 
 <p align="center">
-<img src="docs/eval.jpg">
+<img src="https://github.com/Modrizil/EfficientDet-for-Face-Detection/blob/master/docs/eval.jpg">
 </p>
 
 [The weight of above result](https://pan.baidu.com/s/1FVH6jPZSQUSRNFoTZV5t-A). Extraction code : nqc2
