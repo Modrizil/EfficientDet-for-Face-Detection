@@ -130,7 +130,7 @@ class Anchors(nn.Module):
         if sizes is None:
             self.sizes = [2 ** (x + 2) for x in self.pyramid_levels]
         if ratios is None:
-            self.ratios = np.array([0.5, 1, 2])
+            self.ratios = np.array([0.8, 1, 1.2])
         if scales is None:
             self.scales = np.array([2 ** 0, 2 ** (1.0 / 3.0), 2 ** (2.0 / 3.0)])
 
